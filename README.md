@@ -1,6 +1,10 @@
-=# wonderfull-life
+# wonderfull-life
 
 > make ur life more wonderfull.
+
+## Screenshot
+
+![](https://raw.githubusercontent.com/eamonnbell/wonderfull-life/master/screenshot.png)
 
 ## Build Setup
 
